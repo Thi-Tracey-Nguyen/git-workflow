@@ -6,3 +6,4 @@ This line is added to remote repo (origin) to test fetch and reset without chang
 This line is added from local repo to test fetch and merge with uncommited changes <br />
 This line is added from local repo to test fetch and merge <br />
 This line is added from remote repo to test fetch and merge with uncommited changes <br />
+This line simulates my work on the local feature2 branch<br/>
