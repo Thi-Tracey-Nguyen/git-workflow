@@ -10,3 +10,4 @@ This line is added from remote repo to test fetch and merge with uncommited chan
 This line simulates a colleague pushing to remote branch when I'm working on my feature <br/>
 This line simulates my work on the local feature2 branch<br/>
 
+This line simulates another colleague pushing to remote branch when I'm working on my feature <br/>
