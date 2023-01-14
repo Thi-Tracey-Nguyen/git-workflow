@@ -11,3 +11,4 @@ This line simulates a colleague pushing to remote branch when I'm working on my 
 This line simulates my work on the local feature2 branch <br/>
 
 I wrote some awesome code on my local machine<br/>
+This line simulates another colleague pushing to remote branch when I'm working on my feature <br/>
