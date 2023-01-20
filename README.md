@@ -15,3 +15,6 @@ This line simulates another colleague pushing to remote branch when I'm working 
 
 /// 
 This line simulates work done during the code review. Testing: merging it to feature branch without loosing commit history
+
+///
+This line is some code I made in my feature branch
