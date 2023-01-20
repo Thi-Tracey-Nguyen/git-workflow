@@ -18,3 +18,5 @@ This line simulates work done during the code review. Testing: merging it to fea
 
 ///
 This line is some code I made in my feature branch
+This is some code my colleague made
+
